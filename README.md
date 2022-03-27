@@ -1,1 +1,1 @@
-# m1_calculator
+# M1_calculator
