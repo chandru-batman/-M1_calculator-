@@ -1,0 +1,13 @@
+chandru-batman@LAPTOP-NI1KTHVR:/mnt/c/Users/CHANDRU M/.vscode/-M1_calculator--1$ ls
+0_Certificates  1_Requirements  3_Implementation  README.md
+chandru-batman@LAPTOP-NI1KTHVR:/mnt/c/Users/CHANDRU M/.vscode/-M1_calculator--1$ pwd
+/mnt/c/Users/CHANDRU M/.vscode/-M1_calculator--1
+chandru-batman@LAPTOP-NI1KTHVR:/mnt/c/Users/CHANDRU M/.vscode/-M1_calculator--1$ cd  3_Implementation
+chandru-batman@LAPTOP-NI1KTHVR:/mnt/c/Users/CHANDRU M/.vscode/-M1_calculator--1/3_Implementation$ gcc add_calculator_v2.c
+chandru-batman@LAPTOP-NI1KTHVR:/mnt/c/Users/CHANDRU M/.vscode/-M1_calculator--1/3_Implementation$ ./a.out
+add function is working and get the expected output
+sub function is working and get the expected output
+multiply function is worksing and get the expected output 
+remanider function is working and get the expected output
+power function is working and get the expected output
+chandru-batman@LAPTOP-NI1KTHVR:/mnt/c/Users/CHANDRU M/.vscode/-M1_calculator--1/3_Implementation$ 

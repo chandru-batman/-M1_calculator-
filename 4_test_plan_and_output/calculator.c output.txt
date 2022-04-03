@@ -1,0 +1,36 @@
+chandru-batman@LAPTOP-NI1KTHVR:/mnt/c/Users/CHANDRU M/.vscode/-M1_calculator--1$ ls
+0_Certificates  1_Requirements  3_Implementation  README.md
+chandru-batman@LAPTOP-NI1KTHVR:/mnt/c/Users/CHANDRU M/.vscode/-M1_calculator--1$ pwd
+/mnt/c/Users/CHANDRU M/.vscode/-M1_calculator--1
+chandru-batman@LAPTOP-NI1KTHVR:/mnt/c/Users/CHANDRU M/.vscode/-M1_calculator--1$ cd 3_Implementation
+chandru-batman@LAPTOP-NI1KTHVR:/mnt/c/Users/CHANDRU M/.vscode/-M1_calculator--1/3_Implementation$ gcc calculator.c
+chandru-batman@LAPTOP-NI1KTHVR:/mnt/c/Users/CHANDRU M/.vscode/-M1_calculator--1/3_Implementation$ ./a.out
+Enter two numbers: 30 20
+
+*****************
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Remainder
+6.Power (x^y)
+7.Exit
+Enter your choice: 1
+30.00 + 20.00 = 50.00
+
+**********************************
+Enter two numbers: 60 50
+
+*****************
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Remainder
+6.Power (x^y)
+7.Exit
+Enter your choice: 6
+60.00 ^ 50.00 = inf
+
+**********************************
+Enter two numbers:
