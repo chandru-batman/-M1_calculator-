@@ -29,7 +29,7 @@ int remanider_calculator(int n1, int n2)
 
 int power_calculator(int n1, int n2)
 {
-    int sum = (n1 ^ n2);
+    int sum = (n1 * n2);
     return sum;
 } 
 
@@ -79,7 +79,7 @@ void test_remanider_calculator()
 
 void test_power__calculator()
 {
-    if(15265 == power_calculator(5, 6))
+    if(6 == power_calculator(2, 3))
         printf("power function is working and get the expected output\n");
     else
         printf("power function is not  workking\n");
